@@ -20,7 +20,7 @@ Our Movie Metadata aggregator, built using Python and Natural Language Processin
 
 ![Sample Image 3](https://github.com/user-attachments/assets/fcab1478-43fa-4803-9b8b-0c5a47358b95)
 
-![Sample Image 4]![image](https://github.com/user-attachments/assets/2e213371-be7c-45e5-8d72-95820fdde75e)
+![Sample Image 4](https://github.com/user-attachments/assets/2e213371-be7c-45e5-8d72-95820fdde75e)
 
 
 
@@ -31,7 +31,7 @@ Follow these steps to set up and run the application:
 
 1. **Clone the Repository:** 
     ```bash
-    git clone https://github.com/AnupamMittal-21/Movie-Recommender-System.git
+    git clone https://github.com/CU-WWC24-22BCS-IOT-619/project-1-anshikasaini12.git
     ```
 
 2. **Create a Virtual Environment:** 
